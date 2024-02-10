@@ -91,7 +91,7 @@
   "packageManager": "pnpm@8.15.1",
   "pnpm": {
     "overrides": {
-      "@vitejs/plugin-vue": "workspace:*"
+      "@vue-vapor/vite-plugin-vue": "workspace:*"
     }
   }
 }
